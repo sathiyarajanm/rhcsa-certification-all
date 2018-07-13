@@ -1,7 +1,4 @@
 # rhcsa-certification-all
-==============================================
-Red Hat Certified System Administrator (RHCSA)
-==============================================
 
 **Understand and use essential tools**:
 
